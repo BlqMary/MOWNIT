@@ -1,2 +1,2 @@
 # MOWNIT
-Korzystać z rozwagą - trochę rzeczy działa źle albo po prostu nie działa.
+Korzystać z rozwagą - trochę rzeczy działa źle (ew po prostu nie działa).
